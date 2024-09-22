@@ -18,18 +18,18 @@ Dataset Link : https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-r
 ## Data Preprocessing
 Before visualization, the data was cleaned and preprocessed to remove any inconsistencies. Key preprocessing steps include:
 
-Handling missing or null values
-Standardizing data formats for easier analysis
-Removing duplicates and irrelevant data entries
+- Handling missing or null values
+- Standardizing data formats for easier analysis
+- Removing duplicates and irrelevant data entries
 
 ## Visualizations
 A variety of visualizations were created using Matplotlib and Seaborn to analyze the following:
 
-Online vs. Offline Orders: A comparison of restaurants offering online vs. offline ordering.
-Location-wise Restaurant Distribution: Analyzing the share of restaurants across different locations in Bangalore.
-Restaurant Ratings: Comparing restaurant ratings across different areas.
-Popular Cuisines: Identifying the most popular cuisines served in Bangalore.
-Types of Restaurants Grouped by Location: Categorizing restaurant types (e.g., cafes, fine dining) based on their locations.
+- Online vs. Offline Orders: A comparison of restaurants offering online vs. offline ordering.
+- Location-wise Restaurant Distribution: Analyzing the share of restaurants across different locations in Bangalore.
+- Restaurant Ratings: Comparing restaurant ratings across different areas.
+- Popular Cuisines: Identifying the most popular cuisines served in Bangalore.
+- Types of Restaurants Grouped by Location: Categorizing restaurant types (e.g., cafes, fine dining) based on their locations.
 
 ## Technologies Used
 - Python: Programming language used for data manipulation and analysis.
