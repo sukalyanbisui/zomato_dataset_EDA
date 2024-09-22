@@ -32,7 +32,7 @@ Popular Cuisines: Identifying the most popular cuisines served in Bangalore.
 Types of Restaurants Grouped by Location: Categorizing restaurant types (e.g., cafes, fine dining) based on their locations.
 
 ## Technologies Used
-Python: Programming language used for data manipulation and analysis.
-Pandas: For data cleaning and preprocessing.
-Matplotlib: For creating static, interactive, and animated visualizations.
-Seaborn: For statistical data visualization.
+- Python: Programming language used for data manipulation and analysis.
+- Pandas: For data cleaning and preprocessing.
+- Matplotlib: For creating static, interactive, and animated visualizations.
+- Seaborn: For statistical data visualization.
